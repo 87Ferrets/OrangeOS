@@ -37,12 +37,12 @@ By default, OrangeOS comes with the BARE commands. These are: **making a user, d
 That's all you get, no help, nothing.
 BUT If you go to this GitHub repo, you should see a folder called "OptionalCommands". Inside the folder are HUNDREDS of extra commands with their own instructions, so follow them!
 
-##Security
+## Security
 
 **OrangeOS is NOT secure.** Granted, we have a login manager and hash passwords BUT, this version of OrangeOS comes uncompiled (Second version comes compiled) so it is EASY for a person who knows Python to change the shell's and the command's code and make it avoid login.
 We are trying to make v2 compiled so that it isn't as easily editable.
 
-##Feedback and commits
+## Feedback and commits
 We would LOVE it if you could give us feedback and actually commit to our work and edit it. This is just a random hobby of mine during quarantine and it would be great if you could contribute to it.
 
 Thanks!
