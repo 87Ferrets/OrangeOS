@@ -32,11 +32,13 @@ test [C:\OrangeOS\test]: _
 Now, lets talk about commands.
 
 ##Commands
+
 By default, OrangeOS comes with the BARE commands. These are: **making a user, deleting a user, changing your password, exit and reboot (which is like a log out)**
 That's all you get, no help, nothing.
 BUT If you go to this GitHub repo, you should see a folder called "OptionalCommands". Inside the folder are HUNDREDS of extra commands with their own instructions, so follow them!
 
 ##Security
+
 **OrangeOS is NOT secure.** Granted, we have a login manager and hash passwords BUT, this version of OrangeOS comes uncompiled (Second version comes compiled) so it is EASY for a person who knows Python to change the shell's and the command's code and make it avoid login.
 We are trying to make v2 compiled so that it isn't as easily editable.
 
