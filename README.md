@@ -31,9 +31,9 @@ test [C:\OrangeOS\test]: _
 
 Now, lets talk about commands.
 
-##Commands
+## Commands
 
-By default, OrangeOS comes with the BARE commands. These are: **making a user, deleting a user, changing your password, exit and reboot (which is like a log out)**
+By default, OrangeOS comes with the BARE commands. These are: **`making a user`, `deleting a user`, `changing your password`, `exit` and `reboot` (which is like a log out)**
 That's all you get, no help, nothing.
 BUT If you go to this GitHub repo, you should see a folder called "OptionalCommands". Inside the folder are HUNDREDS of extra commands with their own instructions, so follow them!
 
